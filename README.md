@@ -1,7 +1,9 @@
 # Easygrad
-An easy, extensible, Numpy-based **automatic differentiation** tools, adapted from [Autodidact](https://github.com/mattjj/autodidact).
+An easy, extensible, Numpy-based **automatic differentiation** tools, adapted from [Autodidact](https://github.com/mattjj/autodidact) and [Autograd](https://github.com/hips/autograd).
 
-Thanks for [Matt Johnson](https://github.com/mattjj)'s great tutorial of [Autodidact](https://github.com/mattjj/autodidact) and a much more advanced version of [Autograd](https://github.com/hips/autograd).
+A complete but a little messy [jupyter tutorial](notebooks/Easygrad.ipynb).
+
+<img src="notebooks/tanh.png" width="400">
 
 ## Difference of Easygrad
 
@@ -37,3 +39,7 @@ def f(x):
 
 y = grad(f)(5.)
 ```
+
+## Acknowledgement
+
+Thanks for [Matt Johnson](https://github.com/mattjj)'s great tutorial of [Autodidact](https://github.com/mattjj/autodidact) and a much more advanced version of [Autograd](https://github.com/hips/autograd).
