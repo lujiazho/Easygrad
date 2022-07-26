@@ -1,5 +1,5 @@
 # Easygrad
-An easy, extensible, Numpy-based **automatic differentiation** tools, adapted from [Autodidact](https://github.com/mattjj/autodidact) and [Autograd](https://github.com/hips/autograd).
+An easy, extensible, Numpy-based **automatic differentiation** tool, adapted from [Autodidact](https://github.com/mattjj/autodidact) and [Autograd](https://github.com/hips/autograd).
 
 A complete but a little messy [jupyter tutorial](notebooks/Easygrad.ipynb).
 
